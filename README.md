@@ -1,0 +1,4 @@
+- Hi, I’m @IAmVito
+- I like playing games, making small programs and drawing.
+- I know Python, learning HTML/CSS, and want to learn C, JavaScript and Java.
+- You can reach me on discord: vito#1000
